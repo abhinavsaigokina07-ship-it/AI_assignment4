@@ -1,7 +1,4 @@
-"""
-PART 3: Sudoku Puzzle using CSP
-Uses Backtracking + AC-3 Arc Consistency
-"""
+
 
 class CSP:
     def __init__(self, variables, domains, neighbors, constraints):
